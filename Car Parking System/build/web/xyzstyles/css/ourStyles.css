@@ -1,0 +1,43 @@
+#commentBody{
+
+padding-left:2%;
+margin-top:1%;
+
+padding-top:1%;
+padding-bottom:0.5%;
+border-left:solid 5px #054550;
+border-right:solid 5px #054550;
+
+
+}
+
+#menuBar{
+	background-color:#abc;
+}
+
+.container{
+
+background-color:#FFFFFF; 
+margin-top:2%; 
+border-radius:5px 5px 0px 0px;
+}
+
+h3{
+	font-family:Adobe Garamond Pro Bold;
+    font-size:1.4em;
+	color:black;
+	}
+	
+	
+#login :before{
+position:absolute;
+content:' ';
+width:0px;
+height:0px;
+top:-20px;
+left:50%;
+
+border:solid 10px ;
+border-color:transparent  transparent  lightGrey transparent  ;
+border-radius:0px 0px 5px 5px;
+}
